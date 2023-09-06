@@ -1,9 +1,10 @@
 <form action="action_page.php">
   <div class="container">
+  <p align="justify">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-     
+    
     <label for="Name"><b>Enter maven Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
